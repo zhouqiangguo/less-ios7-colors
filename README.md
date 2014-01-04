@@ -1,5 +1,5 @@
 
-- [Preview](http://basecss.github.io/less-ios7-colors/)
+- [Preview](http://basecss.github.io/less-ios7-colors/index.html)
 
 ============
 
